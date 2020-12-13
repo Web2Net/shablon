@@ -1,0 +1,43 @@
+.both{clear:both;}
+.left{float:left;}
+.right{float:right;}
+.br_1{height:1px;}
+.br_5{height:5px;}
+.br_10{height:10px;}
+.br_20{height:20px;}
+
+.caption1, .caption2, .caption3, .caption4, .caption5, .caption6{font-weight:600;}
+.caption1{font-size:225%;}
+.caption2{font-size:200%;}
+.caption3{font-size:175%;}
+.caption4{font-size:150%;}
+.caption5{font-size:125%;}
+.caption6{font-size:100%;}
+
+.desc1,.desc2,.desc3,.desc4{font-weight: normal;}
+.desc1{font-size:150%;}
+.desc2{font-size:125%;}
+.desc3{font-size:100%;}
+.desc4{font-size:75%;}
+
+/* *************** COLOR ******************* */
+.font_green{color:#50552f;}
+.font_brown{color:#502d16;}
+.font_white{color:#fff;}
+.font_grey{color:#ccc;}
+.font_light_grey{color:#eee;}
+.font_yellow{color:#e9ddaf;}
+.font_red{color:#d91219;}
+
+.bg_green{background-color:#50552f;}
+.bg_brown{background-color:#502d16;}
+.bg_white{background-color:#fff;}
+.bg_grey{background-color:#ccc;}
+.bg_light_grey{background-color:#eee;}
+.bg_yellow{color:#e9ddaf;}
+/* *************** /COLOR ******************* */
+
+.txt_l{text-align:left;}
+.txt_r{text-align:right;}
+.txt_c{text-align:center;}
+.txt_j{text-align:justify;}

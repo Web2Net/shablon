@@ -1,0 +1,18 @@
+.flex1{
+    
+}
+.flex1__row{
+    display: flex;
+    border: 20px solid #555;
+    margin: 0px 0px 20px 0px;
+}
+.flex1__column{
+    border: 20px solid #d91219;
+}
+.flex1__item{
+    background-color: #999;
+    padding: 50px;
+    font-size: 50px;
+    color: #ffffff;
+    font-weight: 700;
+}
